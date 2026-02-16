@@ -4,3 +4,5 @@ __pycache__/
 .DS_Store
 *.xlsx
 *.csv
+.mot_token_cache.json
+*.checkpoint.json
